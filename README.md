@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3742fa&size=35&center=true&width=860&lines=HELLO,+MY+NAME+is+Wladmir+Bullem;I'm+54+years+old;I+from+Brasil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=wladmirbullem&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wladmir Bullem github stats" />
+<img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=wladmirbullem&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wladmir-Bullem github stats" />
 <img width="41%" heigth="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladmirbullem&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 <br>
@@ -25,7 +25,7 @@
 <img align="center"  height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312637983-2856fdde-3200-4398-8290-a0e45d3a35a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T024829Z&X-Amz-Expires=300&X-Amz-Signature=23ee74ffa93dee6dbcddf62a253d852d41fb97cefa521c2dad4e7ef389c4ff91&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
 </a>
 
-<a  href="[https://www.linkedin.com/in/wladmir-bullem/]" target=_blank>
+<a     href="https://www.linkedin.com/in/wladmir-bullem/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312638011-bc26a6f8-f0d3-4f15-82e1-55680c48f269.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T024726Z&X-Amz-Expires=300&X-Amz-Signature=dfaecb6338dcef9ed88228781b23fcca119504cc97b3c95a8f464463fb79a3c0&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
 </a>
 
@@ -45,18 +45,18 @@
 
 <img height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312671741-b8182e38-59d0-4707-96dd-57781d7fa0cd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T025529Z&X-Amz-Expires=300&X-Amz-Signature=0d6d168a2d9fc02e14ba650bc2fb98a5da06d3e2907d225cdd538e6a8cfe5cc1&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
 
-<img height="80" width="80" src="https://github.com/WladmirBullem/WladmirBullem/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
+<img height="80" width="80" src="https://github.com/WladmirBullem/assets/44561610/67a682a9-e93d-4eed-831c-037ec6d536cc">
 
 <br>
 <br>
 <br> 
 <br> 
 
-<p><b>Visitors Count</b></p> 
+<p><b>Visualizações...</b></p> 
 
 <br> 
   
-<p><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fwladmirol&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%wladmirbullem&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 
 <br>
 
