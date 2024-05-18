@@ -21,13 +21,13 @@ Breve descrição de quem sou :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3742fa&size=35&center=true&width=860&lines=HELLO,+MY+NAME+is+Wladmir+Bullem;I'm+54+years+old;I+from+Brasil;I'm+studying+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=leandrolol&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wladmir Bullem github stats" />
-<img width="41%" heigth="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladmirbullemol&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+<img width="49%" heigth="5px" src="https://github-readme-stats.vercel.app/api?username=wladmirbullem&show_icons=true&count_private=true&hide_border=true&title_color=ff91a48icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wladmir Bullem github stats" />
+<img width="41%" heigth="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladmirbullem&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 
 <br>
 <br>
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/wladmirol?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/wladmirbullem?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
 
 <br>
 <br> 
@@ -36,7 +36,7 @@ Breve descrição de quem sou :
 <img align="center"  height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312637983-2856fdde-3200-4398-8290-a0e45d3a35a0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T024829Z&X-Amz-Expires=300&X-Amz-Signature=23ee74ffa93dee6dbcddf62a253d852d41fb97cefa521c2dad4e7ef389c4ff91&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
 </a>
 
-<a  href="https://www.linkedin.com/in/wladmir-bullem/" target=_blank>
+<a  href="[https://www.linkedin.com/in/wladmir-bullem/]" target=_blank>
 <img align="center"  height="80" width="80" src="https://github-production-user-asset-6210df.s3.amazonaws.com/44561610/312638011-bc26a6f8-f0d3-4f15-82e1-55680c48f269.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240429T024726Z&X-Amz-Expires=300&X-Amz-Signature=dfaecb6338dcef9ed88228781b23fcca119504cc97b3c95a8f464463fb79a3c0&X-Amz-SignedHeaders=host&actor_id=146794496&key_id=0&repo_id=541262417">
 </a>
 
