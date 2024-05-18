@@ -11,6 +11,6 @@ Breve descrição de quem sou :
 - 🤔 Busco oportunidade como desenvolvedor Back End
 - 💬 Pergunte me o que gosto....
 - 📫 Meu e-mail dj1.wlad@gmail.com
-- 😄 Sou muito bem casado ....
+- 😄 Ele/dele
 - ⚡ Sou DJ nas horas vagas junto com meu filho de 5 anos
 -->
